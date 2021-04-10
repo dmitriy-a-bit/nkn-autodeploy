@@ -1,4 +1,4 @@
-snap install -y docker
+snap install docker
 
 mkdir -p /root/nkn/
 cat <<EOF > /root/nkn/config.json
