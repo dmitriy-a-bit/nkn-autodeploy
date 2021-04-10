@@ -1,7 +1,7 @@
 snap install docker
 
 mkdir -p /root/nkn/
-cat <<EOF > /root/nkn/config.json
+cat << EOF > /root/nkn/config.json
 {
   "BeneficiaryAddr": "NKNL1M63BBTXYYuSQA7CVhPzJQj1cEPKNFf9",
   "SeedList": [
